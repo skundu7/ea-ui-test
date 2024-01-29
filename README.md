@@ -7,7 +7,6 @@ node.js
 
 ############################
 Follow the steps to build the project locally usign the below link 
-git push -u origin main
 https://github.com/EATechnology/ea-coding-test-samples/tree/main/web
 
 ######################
