@@ -1,12 +1,12 @@
 
-Test repo to UI test the EA mustic festival test page
+Test repo to UI test the EA music festival test page. 
 
 ############################
 prerequisite
 node.js
 
 ############################
-Follow the steps to build the project locally usign the below link 
+Follow the steps to build the project locally using the below link 
 https://github.com/EATechnology/ea-coding-test-samples/tree/main/web
 
 ######################
